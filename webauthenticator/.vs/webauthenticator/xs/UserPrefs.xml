@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{01C90DB2-880B-4435-9BCD-3C7698E92816}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="webauthenticator.iOS/Main.cs">
+    <Files>
+      <File FileName="webauthenticator/MainPage.xaml" Line="13" Column="30" />
+      <File FileName="webauthenticator/ViewModels/MainPageViewModel.cs" Line="23" Column="1" />
+      <File FileName="webauthenticator/MainPage.xaml.cs" Line="17" Column="40" />
+      <File FileName="webauthenticator.iOS/Main.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webauthenticator" expanded="True">
+            <Node name="webauthenticator" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="webauthenticator.iOS" expanded="True">
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.webauthenticator.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.webauthenticator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3A9C6A12-D765-4B7D-98B7-766A0840FD72" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
