@@ -45,15 +45,15 @@
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/bin/iPhoneSimulator/Debug/webauthenticator.dll
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/bin/iPhoneSimulator/Debug/webauthenticator.pdb
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/ibtool/_BundleResourceWithLogicalName.items
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/actool/_PartialAppManifest.items
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/actool/_BundleResourceWithLogicalName.items
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/coremlc/_PartialAppManifest.items
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/coremlc/_BundleResourceWithLogicalName.items
-/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 8-13.4/optimized/
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/webauthenticator.iOS.csprojAssemblyReference.cache
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/webauthenticator.iOS.csproj.CoreCompileInputs.cache
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/webauthenticator.iOS.csproj.CopyComplete
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/webauthenticator.iOS.exe
 /Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/webauthenticator.iOS.pdb
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_PartialAppManifest.items
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/actool/_BundleResourceWithLogicalName.items
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_PartialAppManifest.items
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.4/optimized/

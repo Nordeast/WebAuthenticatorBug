@@ -1,0 +1,14 @@
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/bin/Debug/netstandard2.0/webauthenticator.deps.json
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/bin/Debug/netstandard2.0/webauthenticator.dll
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/bin/Debug/netstandard2.0/ref/webauthenticator.dll
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/bin/Debug/netstandard2.0/webauthenticator.pdb
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.csprojAssemblyReference.cache
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.csproj.CoreCompileInputs.cache
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.AssemblyInfoInputs.cache
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.AssemblyInfo.cs
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.dll
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/ref/webauthenticator.dll
+/Users/allenrand/Desktop/WebAuthenticatorTest/webauthenticator/webauthenticator/obj/Debug/netstandard2.0/webauthenticator.pdb
